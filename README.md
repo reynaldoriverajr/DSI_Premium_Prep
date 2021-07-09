@@ -252,7 +252,7 @@
     
       #END
 
-# Hashtags:
+# hashtags
     # Galvanize
     # dsi_premprep_day2
     # file1
@@ -300,8 +300,9 @@ Sanity Check - Helps the coder know that the program is working as intended.
     #control flow
     #homework
 
-# Covering.
-    #1. data types - some vocabulary will need to be memorized.
+# Covering Definitinos.
+   #1. data types - some vocabulary will need to be memorized.
+ 
         #a. int
         #b. float
             #i. underflow
@@ -309,11 +310,14 @@ Sanity Check - Helps the coder know that the program is working as intended.
         #d. str
         #e. None
 
-    #2. abstractions - make things easier. when you take a complicated idea and you wrap it up in a simple idea.
+
+   #2. abstractions - make things easier. when you take a complicated idea and you wrap it up in a simple idea.
+   
         #a. functions.
         #b. variables.
-    #3. control flow - lets us write dynamic code.
-    #4. iteration - lets us repeat processes a number of times.
+    
+   #3. control flow - lets us write dynamic code.
+   #4. iteration - lets us repeat processes a number of times.
 
 # Below Was in Regard to Abstraction Explanation. idk. I Got Confused.
 
@@ -407,7 +411,7 @@ print( "hello" == "hello") #True
 print ("hello" != "world") True
 
 # Logical Operators
- #Operator Precedence: not, and, or
+ #Operator Precedence: (not, and, or)
 
     print(not True) #False
 
@@ -419,7 +423,7 @@ print ("hello" != "world") True
 
     print(True or False) #True
     
-  # HASHTAG
+  # hashtags
      #Day_3 #DSI_Premium_Prep
 
     
