@@ -1,9 +1,10 @@
 
-# July 2021 DSI Premium Preparation Course
+# JULY - AUGUST 2021 DSI PREMIUM PREPARATION COURSE NOTES FROM STUDENT
 
 # Day_2
    #Notes from second day of class. 
     #Class Day Two
+    #Day_2
 
 # On Quotes & Tics.
    #Quote marks with either ('') or ("") are both considered strings. However, single tic quotes(') may intefer with apostrophes.
@@ -42,7 +43,7 @@
     
     print(73%7)
     
- # More On Floats and Int.
+ # On Floats and Int.
 
    #Mixing floats and ints in 1 operation always result into float.
 
