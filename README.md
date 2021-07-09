@@ -408,11 +408,11 @@ Sanity Check - Helps the coder know that the program is working as intended.
     Operator = (!=) Does not Equal
 
 
-print( "hello" == "world" ) #False
+      print( "hello" == "world" ) #False
 
-print( "hello" == "hello") #True
+      print( "hello" == "hello") #True
 
-print ("hello" != "world") True
+      print ("hello" != "world") True
 
 # Logical Operators
  #Operator Precedence: (not, and, or)
