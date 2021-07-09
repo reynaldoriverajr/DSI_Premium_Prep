@@ -252,13 +252,17 @@
     
       #END
 
-# hashtags
+#hashtags
     # Galvanize
     # dsi_premprep_day2
     # file1
-    
-#    
+       
 # DAY_3
+
+      #day_3
+      #Notes from third day of class
+      #Galvanize
+      #DSI_Premium_Prep
 
 # Breakout (3 minutes).
 If 3 letter carriers must deliver the same exact number of letters, and there are 299 letters, how many letters will not be delivered? Write a Python expression that answers this question.
@@ -300,7 +304,7 @@ Sanity Check - Helps the coder know that the program is working as intended.
     #control flow
     #homework
 
-# Covering Definitinos.
+# Covering Definitions.
    #1. data types - some vocabulary will need to be memorized.
  
         #a. int
@@ -423,7 +427,8 @@ print ("hello" != "world") True
 
     print(True or False) #True
     
-  # hashtags
+  #hashtags
+  
      #Day_3 #DSI_Premium_Prep
 
     
