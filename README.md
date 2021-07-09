@@ -1,5 +1,7 @@
 
-# July 2021 DSI Premium Preparation Course Day 2
+# July 2021 DSI Premium Preparation Course
+
+# Day_2
    #Notes from second day of class. 
     #Class Day Two
 
@@ -102,7 +104,7 @@
     
     print( type() ) #invokes a type to display.
 
-# BREAKOUT
+# Breakout.
 #Solve Problem.
     
     print(type(74)) #<class 'int'>
@@ -118,7 +120,7 @@
     
     print ((7 + 3) * 10) #100
 
-# BREAKOUT
+# Breakout
 #Add 5 and 7.2, multiply the result by 6, divide that result by 3, then square the result.
 
     print ((((5+7.2) * 6) / 3) ** 2) #595.3599999999998 = Right
@@ -235,7 +237,7 @@
     #print (num)
 
 
-# BREAKOUT
+# Breakout.
 
    1. print the result of multiplying by 7 the addition of 6 and 3.
    2. print the product of 7 times 6, squared, with 23 subtracted from the result.
@@ -249,7 +251,7 @@
     
       #END
 
-# HASHTAGS:
+# Hashtags:
     # Galvanize
     # dsi_premprep_day2
     # file1
@@ -257,7 +259,7 @@
 #    
 # DAY_3
 
-# BREAKOUT (3 minutes)
+# Breakout (3 minutes).
 If 3 letter carriers must deliver the same exact number of letters, and there are 299 letters, how many letters will not be delivered? Write a Python expression that answers this question.
 If you have 5 bank tellers and 28 people waiting to be served, what is the least number of people who will not be served if it takes exactly 4 minutes to serve each person and the bank MUST close in 20 minutes? Write a Python expression that answers this question.
 
@@ -291,13 +293,13 @@ Sanity Check - Helps the coder know that the program is working as intended.
       #Let's you know that coding is working and you can continue to troubleshoot.
       #END
 
-# Python Variables and Logic
+# Python Variables and Logic.
     #declaring variables; variable naming syntax
     #logic operators
     #control flow
     #homework
 
-# Covering
+# Covering.
     #1. data types - some vocabulary will need to be memorized.
         #a. int
         #b. float
@@ -312,7 +314,7 @@ Sanity Check - Helps the coder know that the program is working as intended.
     #3. control flow - lets us write dynamic code.
     #4. iteration - lets us repeat processes a number of times.
 
-#below was in regard to abstraction explanation. idk. I got confused
+# Below Was in Regard to Abstraction Explanation. idk. I Got Confused.
 
       n = 4
       n_factorial = 1
@@ -327,8 +329,9 @@ Sanity Check - Helps the coder know that the program is working as intended.
       print(1/233) #0.004291845493562232
 
 # Float Underflow.
-
-    print( 1/10**1000) #float underflow example because answer becomes (0.0)
+#float underflow example because answer becomes (0.0)
+    
+    print( 1/10**1000) #(0,0)
 
 # Truthyness and Falsyness.
 
@@ -353,7 +356,8 @@ Sanity Check - Helps the coder know that the program is working as intended.
     print("bool " + "False") #bool False
 
 
-# Concatenation - Is When You Add Two Strings Together.
+# Concatenation.
+   #Is When You Add Two Strings Together.
 
     EX:
 
@@ -362,8 +366,9 @@ Sanity Check - Helps the coder know that the program is working as intended.
 
 # None.
 
+   #None is the only value that has .. no .. value.
+        
       print(None) #None
-      #None is the only value that has .. no .. value.
 
       print(print("hello")) #output is ("hello" + "None")
 
