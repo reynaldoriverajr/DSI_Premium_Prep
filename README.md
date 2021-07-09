@@ -121,7 +121,7 @@
     
     print ((7 + 3) * 10) #100
 
-# Breakout
+# Breakout.
 #Add 5 and 7.2, multiply the result by 6, divide that result by 3, then square the result.
 
     print ((((5+7.2) * 6) / 3) ** 2) #595.3599999999998 = Right
